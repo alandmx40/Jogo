@@ -1,0 +1,7 @@
+var bootState = {
+
+	preload: function(){
+		
+	}
+
+};
